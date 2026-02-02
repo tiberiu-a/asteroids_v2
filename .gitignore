@@ -35,6 +35,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+game_state.jsonl
 
 # Unit test / coverage reports
 htmlcov/
